@@ -55,5 +55,6 @@ Open the lobby from your SAP Build Code landing page.
 
 ![](./Images/2_lobby5.jpg)
 
-> The creation of the project can take up to 1 minute.
-**[Next Step: Create Data Entities with Joule](./3_Create_Data_Entities_with_Joule.md) >**
+The creation of the project can take up to 1 minute.
+
+## [Next Step: Create Data Entities with Joule](./3_Create_Data_Entities_with_Joule.md) >

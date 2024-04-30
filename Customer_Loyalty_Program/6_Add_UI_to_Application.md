@@ -22,19 +22,21 @@ Set the **Display name** to **Purchases** and the **Description** to **Manage Pu
 
 ![](./Images/6_Screenshot_4.png)
 
-5. Select **Purchases** as the **Main entity**, and click **Finish**. The page will be created now.
+1. Select **Purchases** as the **Main entity**, and click **Finish**. The page will be created.
 
 ![](./Images/6_Screenshot_5.png)
 
 It might take a few moments for the UI to be created because the dependencies need to be installed. 
 
 6. Repeat steps 2 through 5 to create additional UI apps for the **Customers** and the **Redemptions** entities.
+
 **Customer**:
 * Display name: **Customers** <br/>
 * Description: **Manage Customers**
 * UI Application type: **Template-Based Responsive Application** <br/>
 * UI Application Template: **List Report Page** <br/>
 * Main Entity: **Customers** <br/>
+
 **Redemptions**:
 * Display name: **Redemptions** <br/>
 * Description: **Manage Redemptions** <br/>
@@ -56,10 +58,12 @@ The application's preview is displayed.
 
 ![](./Images/6_Screenshot_8.png)
 
-The customer information is displayed.
+The customer information is displayed. **TODO: Retake screenshot once Sample Data is stable**
 
 ![](./Images/6_Screenshot_9.png)
 
-9. From the dropdown list at the top of the page, select **Home** to go back and preview the other applications.
+9. From the dropdown list at the top of the page, select **Home** to go back and preview the other applications. **TODO: Retake screenshot once Sample Data is stable**
 
 ![](./Images/6_Screenshot_10.png)
+
+## [Next Step: Connect to Git](./7_Connect_to_Git.md) >
