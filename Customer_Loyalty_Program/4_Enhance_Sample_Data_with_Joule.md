@@ -18,7 +18,7 @@ We will now use Joule to enhance the sample data.
 3. Click **Enhance**. This will reopen Joule to modify the sample data. Then, use the following prompt in Joule:
 
 ```code
-Enhance my sample data with meaningful data. All customer numbers will be 7 digits. No field may be empty. Total purchase value must be smaller than 10000. Total reward points and total redeemed reward points both must be unround and different and always sum to one-tenth of total purchase value for each customer.
+Enhance my sample data with meaningful data. All customer numbers will be 7 digits. No field may be empty. Total purchase value must be smaller than 10000. Total reward points and total redeemed reward points both must be  different. The sum of total reward points and total redeemed reward points must be one one-tenth of total purchase value for each customer.
 ```
 
 ![](./Images/4_Screenshot_3.png)
