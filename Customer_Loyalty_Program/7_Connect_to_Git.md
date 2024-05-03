@@ -20,7 +20,7 @@ To perform this step you need a remote GitHub repository, for example on your pr
 
 ![](./Images/7_Screenshot_4.png)
 
-5. All done! Now your project is connected to the remote repository is connected to your project.
+1. All done! Your project is now connected to the remote repository.
 
 ## [Next Step: Deploy and Configure CI/CD](./8_Deploy_CICD.md) >
 
