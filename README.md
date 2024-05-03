@@ -18,9 +18,4 @@ In this session, you will use GenAI capabilities of Joule to create an end-to-en
 3. Use Key User Adaptation to further tailor your App for specific end user needs
 
 
-QUESTION: ADJUST THE FOLLOWING PICTURE FOR THE EXERCISE OR REMOVE IT ALTOGETHER?
-![](./Images/250-0_Screenshot_199.png)
-
-
-
 ## [Start Exercise](./Customer_Loyalty_Program/1_Prerequisites.md) >
