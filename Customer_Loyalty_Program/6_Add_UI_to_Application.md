@@ -5,7 +5,7 @@ To display and test the content we created for the customer loyalty program, we 
 
 ## Add UI 
 
-1. Go to back to the Storyboard and add a UI application. **TODO: FIX SCREENSHOT - PROJECT NAME**
+1. Go to back to the Storyboard and add a UI application.
 
 ![](./Images/6_Screenshot_1.png)
 
@@ -22,7 +22,7 @@ Set the **Display name** to **Purchases** and the **Description** to **Manage Pu
 
 ![](./Images/6_Screenshot_4.png)
 
-1. Select **Purchases** as the **Main entity**, and click **Finish**. The page will be created.
+5. Select **Purchases** as the **Main entity**, and click **Finish**. The page will be created.
 
 ![](./Images/6_Screenshot_5.png)
 
