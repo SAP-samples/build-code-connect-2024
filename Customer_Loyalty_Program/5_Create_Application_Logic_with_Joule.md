@@ -26,7 +26,7 @@ We already have created the entities, services, and sample data with Joule. Now 
 5. Use the following prompt in Joule to create application logic:
 
 ```code
-Reward points of each purchase will be the one tenth of the purchase value. Each purchase value will be added to the total purchase value of the related customer. Each reward points will be added to the total reward points of the related customer.
+Reward points of each purchase will be one tenth of the purchase value. Each purchase value will be added to the total purchase value of the related customer. Each reward points will be added to the total reward points of the related customer.
 ```
 
 ![](./Images/5_Screenshot_5.png)

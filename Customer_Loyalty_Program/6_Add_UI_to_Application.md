@@ -58,11 +58,11 @@ The application's preview is displayed.
 
 ![](./Images/6_Screenshot_8.png)
 
-The customer information is displayed. **TODO: Retake screenshot once Sample Data is stable**
+The customer information is displayed.
 
 ![](./Images/6_Screenshot_9.png)
 
-9. From the dropdown list at the top of the page, select **Home** to go back and preview the other applications. **TODO: Retake screenshot once Sample Data is stable**
+1. From the dropdown list at the top of the page, select **Home** to go back and preview the other applications.
 
 ![](./Images/6_Screenshot_10.png)
 
