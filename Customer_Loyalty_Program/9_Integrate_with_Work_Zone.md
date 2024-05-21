@@ -6,7 +6,7 @@
 
 2. Navigate to **Services** -> **Services and Subscriptions** and click on the *Launch Application* icon for *SAP Build Work Zone, standard edition*. It might take a while for the cache invalidation related to the role assignment to take place. If that is the case for you, simply launch the application in an incognito window.
 
-![](./Images/9_Screnshot_Launch_Work_Zone.png)
+![](./Images/9_Screenshot_Launch_Work_Zone.png)
 
 3. On the *Site Editor*, press on **Create Site**. Choose any name you like and proceed. Nothing needs to be changed on the site overview - navigate back to the Site Editor.
 
