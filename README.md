@@ -38,6 +38,6 @@ Navigate to step:
 
 [8 - Deploy](./Customer_Loyalty_Program/8_Deploy.md)
 
-[9 - Integrate to SAP Build Work Zone](./Customer_Loyalty_Program/9_Integrate_to_Work_Zone.md)
+[9 - Integrate with SAP Build Work Zone](./Customer_Loyalty_Program/9_Integrate_with_Work_Zone.md)
 
 [10 - Adapt your Application as Key User](./Customer_Loyalty_Program/10_Key_User_Adaptation.md)
