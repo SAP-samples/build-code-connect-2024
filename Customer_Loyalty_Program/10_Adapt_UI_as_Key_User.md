@@ -1,4 +1,4 @@
-# 9 - Adapt UI as Key User
+# 10 - Adapt UI as Key User
 
 1. Now that the site is deployed and integrated in SAP Build Work Zone, we want to enable it for Key User adaptation. Go to **Site Directory** and press on the **Site Settings** icon for your site.
 
