@@ -8,7 +8,7 @@
 
 ![](./Images/9_Screenshot_Launch_Work_Zone.png)
 
-3. On the *Site Editor*, press on **Create Site**. Choose any name you like and proceed. Nothing needs to be changed on the site overview - navigate back to the Site Editor.
+3. On the *Site Directory*, press on **Create Site**. Choose any name you like and proceed. Nothing needs to be changed on the site overview - navigate back to the Site Editor.
 
 ![](./Images/9_Screenshot_Create_Site.png)
 
@@ -36,4 +36,4 @@
 Well done! Your app is now integrated with SAP Build Work Zone.
 
 
-## [Next Step: Adapt the UI as Key User](./10_Key_User_Adaptation.md) >
+## [Next Step: Adapt the UI as Key User](./10_Adapt_UI_as_Key_User.md) >

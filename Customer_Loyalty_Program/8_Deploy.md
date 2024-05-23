@@ -14,7 +14,7 @@
 
 ![](./Images/8_Screenshot_Create_HANA_Tools.png)
 
-4. Now go back to the Service Marketplace and look for *SAP Build Work Zone*. Then click on **Create** and in as *Plan* choose **subscription** -> **standard**. Then press **Create**.
+4. Now go back to the Service Marketplace and look for *SAP Build Work Zone*. Then click on **Create** and in as *Plan* choose **subscriptions** -> **standard**. Then press **Create**.
 
 ![](./Images/8_Screenshot_Create_WZ_Service.png)
 
@@ -41,7 +41,7 @@
 * SAP HANA Database Advanced Settings - Here some configuration is required:
   * Select **Allow all IP addresses**
   * Instance Mapping - press **Add Mapping**. For the Organization ID and Space ID we will need the URL from the tab that we left open in step 1 of the Preparation.
-  * The URL has the following format: https://canary.cockpit.btp.int.sap/cockpit#/globalaccount/\<global account ID\>/subaccount/\<subaccount ID\>/org/\<org ID\>/space/\<space ID\>/applications
+  * The URL has the following format: https://canary.cockpit.btp.int.sap/cockpit#/globalaccount/<global account ID\>/subaccount/\<subaccount ID\>/org/\<org ID\>/space/\<space ID\>/applications
   * Copy the \<org ID\> for **Organization ID** and \<space ID\> for **Space ID**
   * Press **Create Now**
 
@@ -51,7 +51,7 @@
 
 ## Deployment
 
-1. Now go back to your app in SAP Build Code and open the **Task Explorer**.
+1. Now go back to your app in SAP Build Code and open the **Task Explorer**. Then press on **Run** icon for the *Deploy* task.
 
 ![](./Images/8_Screenshot_Run_Deployment.png)
 
@@ -59,7 +59,7 @@
 
 3. Use the link to open a new browser page to generate an SSO passcode. If you are asked to enter your password, be sure to use the sap.com password (not necessarily the same as the one used in the SAP Universal ID login). You may also reset the password if needed.
 
-4. Copy the *Temporary Authentication Code* into the field and press **Sign In**
+4. Copy the *Temporary Authentication Code* into the field and press **Sign In**.
 
 ![](./Images/8_Screenshot_CF_Signin.png)
 

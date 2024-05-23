@@ -40,4 +40,4 @@ Navigate to step:
 
 [9 - Integrate with SAP Build Work Zone](./Customer_Loyalty_Program/9_Integrate_with_Work_Zone.md)
 
-[10 - Adapt the UI as Key User](./Customer_Loyalty_Program/10_Key_User_Adaptation.md)
+[10 - Adapt the UI as Key User](./Customer_Loyalty_Program/10_Adapt_UI_as_Key_User.md)
