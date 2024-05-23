@@ -6,7 +6,7 @@
 
 2. Press **Edit** and activate *Key User Adaptation*. Then press **Save**.
 
-![](./Images/10_Activate_Key_User.png)
+![](./Images/10_Screenshot_Activate_Key_User.png)
 
 3. You need a dedicated key user role to be able to adapt UIs. Go back to your Subaccount, then navigate to **Security** -> **Role Collections** and press on **Create**.
 
