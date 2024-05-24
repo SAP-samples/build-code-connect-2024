@@ -22,4 +22,4 @@ To perform this step you need a remote GitHub repository, for example on your pr
 
 5. All done! Your project is now connected to the remote repository.
 
-## [Next Step: Deploy and Configure CI/CD](./8_Deploy.md) >
+## [Next Step: Deploy](./8_Deploy.md) >
