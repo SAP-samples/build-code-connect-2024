@@ -1,8 +1,8 @@
 # Experience AI-powered SAP Fiori development with SAP Build Code
 
-## Script Overview
+## Description
 
-### Highlights
+### Overview
 
 In this session, you will use GenAI capabilities of Joule to create an end-to-end SAP Fiori App using SAP Build Code.
 
@@ -16,6 +16,9 @@ In this session, you will use GenAI capabilities of Joule to create an end-to-en
 2. Take advantage of the one-click deployment in SAP Build Code and integrate your App in SAP Build Work Zone
 
 3. Use Key User Adaptation to further tailor your App for specific end user needs
+
+## Requirements
+There are no dedicated requirement for this exercise, you can start building your app directly!
 
 
 ## [Start Exercise](./Customer_Loyalty_Program/1_Prerequisites.md) >
@@ -41,3 +44,15 @@ Navigate to step:
 [9 - Integrate with SAP Build Work Zone](./Customer_Loyalty_Program/9_Integrate_with_Work_Zone.md)
 
 [10 - Adapt the UI as Key User](./Customer_Loyalty_Program/10_Adapt_UI_as_Key_User.md)
+
+## Contributing
+Exercise provided "as-is". In case of any issues feel free to [let us know!](/../../issues/)
+
+## Code of Conduct
+Please read the [SAP Open Source Code of Conduct](https://github.com/SAP-samples/.github/blob/main/CODE_OF_CONDUCT.md).
+
+## How to obtain support
+Support for the content in this repository is available during the actual time of the online session for which this content has been designed. Otherwise, you may request support via the [Issues](../../issues) tab.
+
+## License
+Copyright (c) 2023 SAP SE or an SAP affiliate company. All rights reserved. This project is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE](LICENSES/Apache-2.0.txt) file.
