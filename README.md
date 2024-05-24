@@ -6,6 +6,8 @@
 
 In this session, you will use GenAI capabilities of Joule to create an end-to-end SAP Fiori App using SAP Build Code.
 
+![SAP Build Code](/SAP-Build-Code.png)
+
 ### Goal
 
 1. Experience the power of Generative AI powered Development: Joule in SAP Build Code
