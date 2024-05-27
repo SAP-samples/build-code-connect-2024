@@ -1,3 +1,5 @@
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/build-code-connect-2024)](https://api.reuse.software/info/github.com/SAP-samples/build-code-connect-2024)
+
 # Experience AI-powered SAP Fiori development with SAP Build Code
 
 ## Description
