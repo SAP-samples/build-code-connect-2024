@@ -76,6 +76,6 @@ Congratulations! Your app is now deployed to Cloud Foundry.
 ![](./Images/8_Screenshot_Application_Overview.png)
 
 
-> Note: To save resources in trial accounts, the services are stopped on a daily basis. If you want to access the apps in the future, you need to first restart the services. First go to **Instances and Subscriptions**, go to the *SAP HANA Cloud* application and restart it. Then go to your space, navigate to **Applications** and press the **play** icon in the *Actions* column to restart the applications with *Stopped* state.
+> Note: To save resources in trial accounts, the services are stopped on a daily basis. If you want to access the apps in the future, you need to first restart the services. First go to **Instances and Subscriptions**, go to the *SAP HANA Cloud* application and restart it. If the application is running, open it to check if the SAP HANA Database Instance is running. If not, start it. Then go to your space, navigate to **Applications** and press the **play** icon in the *Actions* column to restart the applications with *Stopped* state.
 
 ## [Next Step: Integrate with SAP Build Work Zone](./9_Integrate_with_Work_Zone.md) >
