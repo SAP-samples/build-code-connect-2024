@@ -25,5 +25,6 @@ Enhance my sample data with meaningful data. All customer numbers will be 7 digi
 
 ![](./Images/4_Screenshot_3.png)
 
+> Note: Before proceeding, make sure that all entities have valid data entries. Otherwise you might get errors later during deployment.
 
 ## [Next Step: Create Application Logic with Joule](./5_Create_Application_Logic_with_Joule.md) >
